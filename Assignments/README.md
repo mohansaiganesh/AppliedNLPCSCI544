@@ -1,0 +1,1 @@
+Contians the list of Assignments for the course CSCI544 (Applied Natural Language Processing) at USC for Fall 2024.
